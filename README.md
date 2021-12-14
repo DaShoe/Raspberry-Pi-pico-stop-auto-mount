@@ -1,4 +1,4 @@
-# CircuitPythonPico
+# Raspberry-Pi-pico-stop-auto-mount
 Stop pico auto mounting on boot
 
 
